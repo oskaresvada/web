@@ -1,0 +1,1 @@
+<i rel="image">URL GAMBAR DI SINI</i>
